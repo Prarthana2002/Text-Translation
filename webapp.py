@@ -36,7 +36,7 @@ with st.sidebar:
     about_option = st.radio("Navigation", ["Home", "About"])
 
 # ✅ Configure Gemini API Key (Replace with your actual key)
-genai.configure(api_key="AIzaSyAbLZEo6b3EB4pWANbxgJn4YhXQlo3tDWY")
+genai.configure(api_key="Your API KEY")
 
 # ✅ Supported languages (Removed "Auto Detect")
 indian_languages = {
