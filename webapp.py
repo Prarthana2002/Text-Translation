@@ -1,5 +1,4 @@
 import streamlit as st
-import google.generativeai as genai
 import pyttsx3
 from gtts import gTTS
 from pydub import AudioSegment
